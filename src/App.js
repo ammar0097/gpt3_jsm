@@ -8,7 +8,7 @@ import {
   Possibility,
   WhatGPT3,
 } from "./containers";
-import './App.css';
+import "./App.css";
 const App = () => {
   return (
     <div className="App">
@@ -18,7 +18,7 @@ const App = () => {
       </div>
       <Brand />
       <WhatGPT3 />
-      <Features/>
+      <Features />
       <Possibility />
       <Cta />
       <Blog />
